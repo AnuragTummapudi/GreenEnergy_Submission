@@ -1,4 +1,5 @@
 # Knowledge Log
+
 1. Learned about all ```Basic Git commands``` and how GitHub helps for team work.
 2. Learned about how web applications work behind the scenes.
 3. Learned about ```NodeJs setup and initialization```.
