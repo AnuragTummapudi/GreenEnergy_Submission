@@ -1,0 +1,7 @@
+**My personal learning goals for Backend Development**
+
+1. Learn complete workflow about Git and GitHub.
+2. Learn about NodeJS with structured project folders.
+3. Learn about ExpressJS and CORS with assignments.
+4. Learn about CRUD in MongoDB with some projects.
+5. Learn about REST API and fetching in NodeJS.
