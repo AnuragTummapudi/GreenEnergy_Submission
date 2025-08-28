@@ -1,4 +1,4 @@
-### Green Energy Lab Setup 
+# Green Energy Lab Setup 
 
 ## Project Description:
 - This project contains my setup files for the ```Green Energy Lab theme```, including learning goals, Git basic explanations, knowledge log, and a ```system test script```.
@@ -8,7 +8,10 @@
 - Change the directory to ```GreenEnergy_Submission```
 - To run the system test: ```node system_test.js```
 
-# Excpected Output:
-- "Green Energy System: Ready for Development!"
+## Excpected Output:
+- ```"Green Energy System: Ready for Development!"```
 
-# All set, Happy Coding!!
+## GitHub Repository Link:
+- https://github.com/AnuragTummapudi/GreenEnergy_Submission.git
+
+### All set, Happy Coding!!
